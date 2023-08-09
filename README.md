@@ -9,6 +9,7 @@ ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural 
 
 - [x] Releasing dataset and inference codes.
 - [x] Releasing pre-trained weights.
+- [x] Adding Colab example (9 Aug 2023).
 - [ ] Releasing training codes.
 
 ## Dataset
